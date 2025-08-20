@@ -1,9 +1,7 @@
-pandas
 numpy
-scikit-learn 
-matplotlib
-seaborn 
 scipy
-ploty-express
-pprint
-math    
+matplotlib
+seaborn
+plotly
+scikit-learn
+pandas
